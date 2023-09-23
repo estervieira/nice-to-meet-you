@@ -1,0 +1,276 @@
+
+[
+        {
+            "id": 314,
+            "status": "Ativo",
+            "name": "Hermes Pardini",
+            "hasTypeAppropriation": false,
+            "group": "Principal"
+        },
+        {
+            "id": 265,
+            "status": "Ativo",
+            "name": "MRV",
+            "hasTypeAppropriation": false,
+            "group": "Principal"
+        },
+        {
+            "id": 68,
+            "status": "Ativo",
+            "name": "Tangerino",
+            "hasTypeAppropriation": false,
+            "group": "Principal"
+        },
+        {
+            "id": 2,
+            "status": "Ativo",
+            "name": "Unimed BH",
+            "hasTypeAppropriation": true,
+            "group": "Principal"
+        },
+        {
+            "id": 52,
+            "status": "Ativo",
+            "name": "Adam",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 233,
+            "status": "Ativo",
+            "name": "Afya",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 310,
+            "status": "Ativo",
+            "name": "Akzonobel",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 1,
+            "status": "Ativo",
+            "name": "Araujo",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 53,
+            "status": "Ativo",
+            "name": "Argos",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 307,
+            "status": "Ativo",
+            "name": "Bancorbras",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 232,
+            "status": "Ativo",
+            "name": "Banco Santander",
+            "hasTypeAppropriation": true,
+            "group": "Outros"
+        },
+        {
+            "id": 313,
+            "status": "Ativo",
+            "name": "Beer or Coffee",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 266,
+            "status": "Ativo",
+            "name": "C&A",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 75,
+            "status": "Ativo",
+            "name": "Demarco",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 304,
+            "status": "Ativo",
+            "name": "ExtendedTeam",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 5,
+            "status": "Ativo",
+            "name": "Framework",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 303,
+            "status": "Ativo",
+            "name": "Gente e Gestão",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 309,
+            "status": "Ativo",
+            "name": "Geração A",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 134,
+            "status": "Ativo",
+            "name": "GroupSoftware",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 311,
+            "status": "Ativo",
+            "name": "Grupo SFA",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 298,
+            "status": "Ativo",
+            "name": "Grupo Zelo",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 308,
+            "status": "Ativo",
+            "name": "GTI - PLUG",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 58,
+            "status": "Ativo",
+            "name": "Líder Aviação",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 305,
+            "status": "Ativo",
+            "name": "Localiza",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 69,
+            "status": "Ativo",
+            "name": "Lojas Rede",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 76,
+            "status": "Ativo",
+            "name": "Magnetis",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 73,
+            "status": "Ativo",
+            "name": "MAPA",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 136,
+            "status": "Ativo",
+            "name": "Mercantil",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 302,
+            "status": "Ativo",
+            "name": "Provu",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 317,
+            "status": "Ativo",
+            "name": "Reserva",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 312,
+            "status": "Ativo",
+            "name": "Salus Optima",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 300,
+            "status": "Ativo",
+            "name": "Secondo",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 319,
+            "status": "Ativo",
+            "name": "Sólides",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 4,
+            "status": "Ativo",
+            "name": "Stellantis",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 315,
+            "status": "Ativo",
+            "name": "SuperMix",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 62,
+            "status": "Ativo",
+            "name": "Syngenta",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        },
+        {
+            "id": 3,
+            "status": "Ativo",
+            "name": "Unidas",
+            "hasTypeAppropriation": true,
+            "group": "Outros"
+        },
+        {
+            "id": 301,
+            "status": "Ativo",
+            "name": "Unimed Federação",
+            "hasTypeAppropriation": true,
+            "group": "Outros"
+        },
+        {
+            "id": 318,
+            "status": "Ativo",
+            "name": "Voll",
+            "hasTypeAppropriation": false,
+            "group": "Outros"
+        }
+    ]
